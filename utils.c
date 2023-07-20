@@ -1,6 +1,6 @@
-#include "shell.h"
+i#include "shell.h"
 
 int is_interactive(void)
 {
-    return isatty
+    return isatty;
 }

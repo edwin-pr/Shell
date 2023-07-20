@@ -10,5 +10,5 @@ void handle_shell_error(const char *msg)
 // Function to handle errors related to commands
 void handle_command_error(const char *command)
 {
-    fprintf(stderr, "Error: '%s' command not found\n", command)
+    fprintf(stderr, "Error: '%s' command not found\n", command);
 }

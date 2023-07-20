@@ -1,4 +1,10 @@
 #include "shell.h"
+/**
+ * main - entry point of function
+ *
+ *Return: exit on success
+ *
+ */
 
 int main(void)
 {
