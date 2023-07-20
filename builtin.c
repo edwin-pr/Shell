@@ -47,5 +47,5 @@ int builtin_unsetenv(char **args)
             perror("unsetenv");
         }
     }
-    return 1;
+    return (1);
 }
